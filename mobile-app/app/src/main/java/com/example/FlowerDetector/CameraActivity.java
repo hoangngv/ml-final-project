@@ -34,6 +34,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.FlowerDetector.base.BaseActivity;
 import com.example.FlowerDetector.utils.AppConstants;
 import com.example.FlowerDetector.utils.AppUtils;
 import com.example.FlowerDetector.utils.DebugLog;
@@ -47,7 +48,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Locale;
 
-public class CameraActivity extends AppCompatActivity implements View.OnClickListener {
+public class CameraActivity extends BaseActivity implements View.OnClickListener {
 
     private static final String DATE_FORMAT = "yyMMdd_kkmmss";
     private int REQUEST_CODE_PERMISSIONS = 101;

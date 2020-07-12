@@ -1,16 +1,14 @@
 package com.example.FlowerDetector;
-
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.widget.ImageView;
 
+import com.example.FlowerDetector.base.BaseActivity;
 import com.example.FlowerDetector.utils.DebugLog;
 import com.example.FlowerDetector.utils.ImageOverlayView;
 import com.example.FlowerDetector.utils.StylingOptions;
 import com.stfalcon.frescoimageviewer.ImageViewer;
 
-public class ImageReviewActivity extends AppCompatActivity {
+public class ImageReviewActivity extends BaseActivity {
 
     private ImageView mTakenPhoto;
     private String[] mImages;

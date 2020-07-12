@@ -3,11 +3,12 @@ package com.example.FlowerDetector;
 import android.os.Bundle;
 import android.widget.GridView;
 
+import com.example.FlowerDetector.base.BaseActivity;
 import com.example.FlowerDetector.utils.AppUtils;
 import com.example.FlowerDetector.utils.DebugLog;
 import androidx.appcompat.app.AppCompatActivity;
 
-public class GalleryActivity extends AppCompatActivity {
+public class GalleryActivity extends BaseActivity {
 
     protected String[] mImageList;
 

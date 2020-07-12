@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-39:12
 MERGED from [com.github.stfalcon:frescoimageviewer:0.5.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-frescoimageviewer-0.5.0.aar/15f59b059bec506d3ba383c10151bce9/AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.material:material:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/5409a5aa28e81fc2af5e35d67d292516/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/249556f197783f7ded33acd0fca1bd68/AndroidManifest.xml:17:1-24:12
@@ -46,20 +46,20 @@ MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] /home/hoangnv/.gradl
 MERGED from [com.facebook.fresco:fbcore:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.11.0.aar/e1b2b7a1344167fe55d55e29ff61f472/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.5.1] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d8c6f5c0084ff4ea28a4d94a8a744b92/AndroidManifest.xml:2:1-13:12
 MERGED from [me.relex:photodraweeview:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-photodraweeview-1.1.0.aar/9308889c400cf10ed95c8092815b4c53/AndroidManifest.xml:2:1-10:12
-INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:3:5-41
 		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
 		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
-		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
-		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:11-69
@@ -96,7 +96,7 @@ ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManif
 	android:name
 		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:13:22-72
 application
-ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:15:5-36:19
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:15:5-37:19
 MERGED from [com.google.android.material:material:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/5409a5aa28e81fc2af5e35d67d292516/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/5409a5aa28e81fc2af5e35d67d292516/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/06ad41cb845f0eb332b5659c5f2876d4/AndroidManifest.xml:9:5-20
@@ -133,10 +133,10 @@ MERGED from [com.facebook.soloader:soloader:0.5.1] /home/hoangnv/.gradle/caches/
 		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:21:9-69
 	android:name
 		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:16:9-32
-activity#com.example.FlowerDetector.HomeActivity
+activity#com.example.FlowerDetector.SplashActivity
 ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:25:9-31:20
 	android:name
-		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:25:19-47
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:25:19-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
@@ -147,22 +147,26 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:29:17-77
 	android:name
 		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.example.FlowerDetector.HomeActivity
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:32:9-59
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:32:19-47
 activity#com.example.FlowerDetector.CameraActivity
-ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:32:9-61
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:33:9-61
 	android:name
-		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:32:19-49
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:33:19-49
 activity#com.example.FlowerDetector.GalleryActivity
-ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:33:9-62
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:34:9-62
 	android:name
-		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:33:19-50
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:34:19-50
 activity#com.example.FlowerDetector.FlowerDetectionActivity
-ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:34:9-70
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:35:9-70
 	android:name
-		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:34:19-58
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:35:19-58
 activity#com.example.FlowerDetector.ImageReviewActivity
-ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:35:9-66
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:36:9-66
 	android:name
-		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:35:19-54
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:36:19-54
 uses-sdk
 INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml

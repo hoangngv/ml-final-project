@@ -5,12 +5,24 @@ import java.util.HashMap;
 public class AppConstants {
     public class Common{
         public static final int COMMON_REQUEST_PERMISSION_CODE = 9999;
+        public static final int SPLASH_TIME_OUT = 1000;
         public static final String IMG_NAME = "imgName";
         public static final String IMG_PATH = "IMG_PATH";
     }
 
-    public class FlowerUrl {
-        public static final String ROSE = "https://vi.wikipedia.org/wiki/Hoa_h%E1%BB%93ng";
+    public class SharePreferenceKeys{
+        public static final String SELECTED_LANGUAGE_ITEM = "SELECTED_LANGUAGE";
+        public static final String CURRENT_LOCALE = "CURRENT_LOCALE";
+    }
+
+    public static class Locale{
+        public static final String ENGLISH = "en";
+        public static final String VIETNAMESE = "vi";
+
+        public static final String[] LANGUAGE_OPTIONS = new String[]{
+                "English",
+                "Tiếng Việt"
+        };
     }
 
     public static final HashMap<String, String> FLOWER_WIKI_URL = new HashMap<String, String>() {
