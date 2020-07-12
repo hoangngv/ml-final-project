@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">FlowerDetector</string>
+    <string name="unable_open_photo">Unable to open photo</string>
+    <string name="toast_press_back">Press Back again to quit application</string>
+    <string name="camera_user_guide"> You should capture image within this rectangle view </string>
+    <string name="open_camera">Open Camera</string>
+    <string name="open_gallery">Choose Image</string>
+
+    // ImageViewer
+    <string name="share">Share</string>
+    <string name="delete_photo">Delete</string>
+    <string name="upload_photo">Help me detect which type of flower this is</string>
+    <string name="show_more">Show more</string>
+    <string name="prefix_flower">The detected result may help you:</string>
+    <string name="reference">You may also consult information from this source:</string>
+
+    <string-array name="options">
+        <item>hide status bar</item>
+        <item>images margin</item>
+        <item>container padding</item>
+        <item>images rounding</item>
+        <item>swipe-to-dismiss</item>
+        <item>zooming</item>
+        <item>show overlay</item>
+        <item>random background</item>
+        <item>post-processing (via ImageRequestBuilder)</item>
+    </string-array>
+
+    <string name="toast_no_url">Could not get URL</string>
+
+    <string name="no_flower">Sorry, the photo you provided has no flower.</string>
+    <string name="no_content">There is no content to be displayed. You can take another photo of the flower you want to detect.</string>
+    <string name="no_result">No flower detected</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="information_source">From Wikipedia</string>
+    <string name="biology_source">From Biology Online</string>
+
+    <string name="rose_description">Hồng hay hường là tên gọi chung cho các loài thực vật có hoa dạng cây bụi hoặc cây leo lâu năm thuộc chi Rosa, họ Rosaceae, với hơn 100 loài với màu hoa đa dạng, phân bố từ miền ôn đới đến nhiệt đới. Các loài này nổi tiếng vì hoa đẹp nên thường gọi là hoa hồng.</string>
+
+</resources>

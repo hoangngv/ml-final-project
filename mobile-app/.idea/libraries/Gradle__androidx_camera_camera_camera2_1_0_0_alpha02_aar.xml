@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.camera:camera-camera2:1.0.0-alpha02@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.camera/camera-camera2/1.0.0-alpha02/febbd11a02c95212e4ddf7b2963e88999e58df5d/camera-camera2-1.0.0-alpha02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

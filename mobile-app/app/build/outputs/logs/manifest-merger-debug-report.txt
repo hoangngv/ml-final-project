@@ -1,0 +1,275 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [com.github.stfalcon:frescoimageviewer:0.5.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-frescoimageviewer-0.5.0.aar/15f59b059bec506d3ba383c10151bce9/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.material:material:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/5409a5aa28e81fc2af5e35d67d292516/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/249556f197783f7ded33acd0fca1bd68/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/06ad41cb845f0eb332b5659c5f2876d4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.camera:camera-core:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-core-1.0.0-alpha02.aar/55761b6b06791a8956bda16889b91ebd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.11.0.aar/f2b05fc2c4b678d14f3d524b53cafd54/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.browser:browser:1.2.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/browser-1.2.0.aar/9813f7b573adaf6f22cdaf37a1d974c5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/998d19f8158621c2539872089039df09/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/c91ecbfbd4caf4dfca4b5c4eb368b9eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/c40eb35b77268df8fcaa57f108d18776/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/f1c4b1e29ec412f7734795d2761e7154/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/2bd4b36f9024ea52407a0badd9d41194/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/5ab095b87befdbb5d9ed19273317c0f5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/8e08117e3399d312be8eea05115d1b15/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/c2c61dbfb419d3de644d8b4b761d2ca6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/c11bbc3d224ca640cc5ab80e0c5ccdb9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/b3717d7005de020b69d8751fcc9bd6a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/7d6327e0fe4b6c792399844183fa053d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/4bde22ba4d489e6aa5af102cf9e11239/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b486810f4a78adb187d996f08c485610/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/bcfcece47e2c87f01ef5712933ba6f66/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/168b9fa2c42f88769fa975c66bb087c3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/e096a2f156acabb23ee44455b57619c9/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/b49f7dc759fee4e24bff1b33cd69486c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a56c6db239383b869a67db1a8a9df775/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/278ce29191a30e484727df3bf28dd693/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/70f60ab31f7da8df79b4de76fcd66c84/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/aca58625a1445fdf634202a1866c529e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/5eda434da40160887ec06ff024afd93a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/7f736926bba84ac9d00d83e786d133b2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/dea7490a68b6f5c0bbe3c17c02d2e342/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/9f8e64a02191fe922bf8b4e789124fc0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/3a4f1322efee88967877411dedcab4ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/56d99b86ba051ee389e0276114037fcf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:drawee:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.11.0.aar/f7496aeda478a9ca68d0fc1d8e3bbe62/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-1.11.0.aar/b551b9cd67100933d2a0982e1e14b261/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.11.0.aar/8c27994452bf58816b89f4fd8d04bc40/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.11.0.aar/9be077854b34304c35a434e8692afcef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.11.0.aar/e1b2b7a1344167fe55d55e29ff61f472/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d8c6f5c0084ff4ea28a4d94a8a744b92/AndroidManifest.xml:2:1-13:12
+MERGED from [me.relex:photodraweeview:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-photodraweeview-1.1.0.aar/9308889c400cf10ed95c8092815b4c53/AndroidManifest.xml:2:1-10:12
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera.any
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:5:19-61
+uses-permission#android.permission.CAMERA
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:13:22-72
+application
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:15:5-36:19
+MERGED from [com.google.android.material:material:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/5409a5aa28e81fc2af5e35d67d292516/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/5409a5aa28e81fc2af5e35d67d292516/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/06ad41cb845f0eb332b5659c5f2876d4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/06ad41cb845f0eb332b5659c5f2876d4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/AndroidManifest.xml:24:5-31:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/998d19f8158621c2539872089039df09/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/998d19f8158621c2539872089039df09/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/e096a2f156acabb23ee44455b57619c9/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/e096a2f156acabb23ee44455b57619c9/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a56c6db239383b869a67db1a8a9df775/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a56c6db239383b869a67db1a8a9df775/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/56d99b86ba051ee389e0276114037fcf/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/56d99b86ba051ee389e0276114037fcf/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d8c6f5c0084ff4ea28a4d94a8a744b92/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d8c6f5c0084ff4ea28a4d94a8a744b92/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/e096a2f156acabb23ee44455b57619c9/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:20:9-41
+	android:hardwareAccelerated
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:18:9-43
+	android:roundIcon
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:24:9-52
+	android:networkSecurityConfig
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:21:9-69
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:16:9-32
+activity#com.example.FlowerDetector.HomeActivity
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.example.FlowerDetector.CameraActivity
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:32:9-61
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:32:19-49
+activity#com.example.FlowerDetector.GalleryActivity
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:33:9-62
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:33:19-50
+activity#com.example.FlowerDetector.FlowerDetectionActivity
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:34:9-70
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:34:19-58
+activity#com.example.FlowerDetector.ImageReviewActivity
+ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:35:9-66
+	android:name
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml:35:19-54
+uses-sdk
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+MERGED from [com.github.stfalcon:frescoimageviewer:0.5.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-frescoimageviewer-0.5.0.aar/15f59b059bec506d3ba383c10151bce9/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.stfalcon:frescoimageviewer:0.5.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-frescoimageviewer-0.5.0.aar/15f59b059bec506d3ba383c10151bce9/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.material:material:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/5409a5aa28e81fc2af5e35d67d292516/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/5409a5aa28e81fc2af5e35d67d292516/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/249556f197783f7ded33acd0fca1bd68/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/249556f197783f7ded33acd0fca1bd68/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/06ad41cb845f0eb332b5659c5f2876d4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/06ad41cb845f0eb332b5659c5f2876d4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-core-1.0.0-alpha02.aar/55761b6b06791a8956bda16889b91ebd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-core-1.0.0-alpha02.aar/55761b6b06791a8956bda16889b91ebd/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.11.0.aar/f2b05fc2c4b678d14f3d524b53cafd54/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-fresco-1.11.0.aar/f2b05fc2c4b678d14f3d524b53cafd54/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.browser:browser:1.2.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/browser-1.2.0.aar/9813f7b573adaf6f22cdaf37a1d974c5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/browser-1.2.0.aar/9813f7b573adaf6f22cdaf37a1d974c5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/998d19f8158621c2539872089039df09/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/998d19f8158621c2539872089039df09/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/c91ecbfbd4caf4dfca4b5c4eb368b9eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/c91ecbfbd4caf4dfca4b5c4eb368b9eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/c40eb35b77268df8fcaa57f108d18776/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/c40eb35b77268df8fcaa57f108d18776/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/f1c4b1e29ec412f7734795d2761e7154/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/f1c4b1e29ec412f7734795d2761e7154/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/2bd4b36f9024ea52407a0badd9d41194/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/2bd4b36f9024ea52407a0badd9d41194/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/5ab095b87befdbb5d9ed19273317c0f5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/5ab095b87befdbb5d9ed19273317c0f5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/8e08117e3399d312be8eea05115d1b15/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/8e08117e3399d312be8eea05115d1b15/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/c2c61dbfb419d3de644d8b4b761d2ca6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/c2c61dbfb419d3de644d8b4b761d2ca6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/c11bbc3d224ca640cc5ab80e0c5ccdb9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/c11bbc3d224ca640cc5ab80e0c5ccdb9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/b3717d7005de020b69d8751fcc9bd6a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/b3717d7005de020b69d8751fcc9bd6a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/7d6327e0fe4b6c792399844183fa053d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/7d6327e0fe4b6c792399844183fa053d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/4bde22ba4d489e6aa5af102cf9e11239/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/4bde22ba4d489e6aa5af102cf9e11239/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b486810f4a78adb187d996f08c485610/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/b486810f4a78adb187d996f08c485610/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/bcfcece47e2c87f01ef5712933ba6f66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/bcfcece47e2c87f01ef5712933ba6f66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/168b9fa2c42f88769fa975c66bb087c3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/168b9fa2c42f88769fa975c66bb087c3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/e096a2f156acabb23ee44455b57619c9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/e096a2f156acabb23ee44455b57619c9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/b49f7dc759fee4e24bff1b33cd69486c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/b49f7dc759fee4e24bff1b33cd69486c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a56c6db239383b869a67db1a8a9df775/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a56c6db239383b869a67db1a8a9df775/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/278ce29191a30e484727df3bf28dd693/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/278ce29191a30e484727df3bf28dd693/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/70f60ab31f7da8df79b4de76fcd66c84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/70f60ab31f7da8df79b4de76fcd66c84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/aca58625a1445fdf634202a1866c529e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/aca58625a1445fdf634202a1866c529e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/5eda434da40160887ec06ff024afd93a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/5eda434da40160887ec06ff024afd93a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/7f736926bba84ac9d00d83e786d133b2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/7f736926bba84ac9d00d83e786d133b2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/dea7490a68b6f5c0bbe3c17c02d2e342/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/dea7490a68b6f5c0bbe3c17c02d2e342/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/9f8e64a02191fe922bf8b4e789124fc0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/9f8e64a02191fe922bf8b4e789124fc0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/3a4f1322efee88967877411dedcab4ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/3a4f1322efee88967877411dedcab4ef/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/56d99b86ba051ee389e0276114037fcf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/56d99b86ba051ee389e0276114037fcf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.11.0.aar/f7496aeda478a9ca68d0fc1d8e3bbe62/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-drawee-1.11.0.aar/f7496aeda478a9ca68d0fc1d8e3bbe62/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-1.11.0.aar/b551b9cd67100933d2a0982e1e14b261/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-1.11.0.aar/b551b9cd67100933d2a0982e1e14b261/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.11.0.aar/8c27994452bf58816b89f4fd8d04bc40/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-1.11.0.aar/8c27994452bf58816b89f4fd8d04bc40/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.11.0.aar/9be077854b34304c35a434e8692afcef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-imagepipeline-base-1.11.0.aar/9be077854b34304c35a434e8692afcef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.11.0.aar/e1b2b7a1344167fe55d55e29ff61f472/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.11.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-1.11.0.aar/e1b2b7a1344167fe55d55e29ff61f472/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d8c6f5c0084ff4ea28a4d94a8a744b92/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/d8c6f5c0084ff4ea28a4d94a8a744b92/AndroidManifest.xml:7:5-9:41
+MERGED from [me.relex:photodraweeview:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-photodraweeview-1.1.0.aar/9308889c400cf10ed95c8092815b4c53/AndroidManifest.xml:8:5-44
+MERGED from [me.relex:photodraweeview:1.1.0] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/jetified-photodraweeview-1.1.0.aar/9308889c400cf10ed95c8092815b4c53/AndroidManifest.xml:8:5-44
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hoangnv/Desktop/ml-flower-recognition/app/src/main/AndroidManifest.xml
+provider#androidx.camera.camera2.impl.Camera2Initializer
+ADDED from [androidx.camera:camera-camera2:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/AndroidManifest.xml:25:9-30:43
+	android:authorities
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/AndroidManifest.xml:27:13-64
+	android:multiprocess
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/AndroidManifest.xml:30:13-40
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha02] /home/hoangnv/.gradle/caches/transforms-1/files-1.1/camera-camera2-1.0.0-alpha02.aar/bf55555bbe437f986abe86bd28d65c9b/AndroidManifest.xml:26:13-75
